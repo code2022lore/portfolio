@@ -1,0 +1,131 @@
+********************************
+********************************
+"Functional Specification Document"
+
+DATE 12/16/2022
+CLIENT ChatGPT(OpenAI)
+DEVELOPER Jr.Dellapasqua.L.
+
+//**********************************
+
+Introduction:
+  The purpose of this developer portfolio is to provide
+  a platform for developers to showcase their skills,
+  experience, and projects to potential employers and clients.
+  The portfolio should be easy to use and navigate,
+  and should allow developers to customize the appearance and
+  content of their portfolio to best represent their unique skills
+  and experience.
+
+User needs:
+  Developers should be able to easily add and edit their projects,
+  including project descriptions, technologies used,
+  and any relevant images or files.
+  Developers should be able to list their skills and experience,
+  including programming languages, frameworks, and any relevant
+  certifications or education.
+  Developers should be able to customize the appearance
+  of their portfolio, including choosing a color scheme
+  and adding a personal photo and bio.
+  Developers should be able to share their portfolio
+  with others via a shareable link or by embedding
+  it on their personal website.
+  (ALPHA will be released without a direct access to these options,
+  but these ones will be built in the backend, still not directly
+  accessible by the user)
+
+System requirements:
+  The developer portfolio should be compatible
+  with modern browsers on desktop and mobile devices.
+  The developer portfolio should be built using
+  responsive design principles to ensure optimal
+  display on different screen sizes and resolutions.
+  The developer portfolio should be built using a
+  modern web framework, such as React or Vue.js.
+  (ALPHA is realeased using basic code as PHP,
+  JS and Graphic Framework called Bootstrap)
+
+Functionality:
+  Users should be able to create a new portfolio
+  by signing up with their email address and creating a password.
+  Users should be able to log in and access their
+  portfolio at any time.
+  Users should be able to add and edit their
+  projects by providing a project title, description,
+  technologies used, and any relevant images or files.
+  Users should be able to list their skills and experience
+  by adding programming languages, frameworks, and any
+  relevant certifications or education.
+  Users should be able to customize the appearance of
+  their portfolio by choosing a color scheme and adding
+  a personal photo and bio.
+  Users should be able to share their portfolio
+  with others via a shareable link or by embedding it
+  on their personal website.
+  (ALPHA will not fully cover this feature yet)
+
+User interface:
+  The developer portfolio should have a clean and modern design,
+  with a consistent color scheme and font choices throughout.
+  The portfolio should be easy to navigate, with clear headings
+  and links to help users find the information they need.
+  The portfolio should be responsive, with a layout that adjusts
+  to different screen sizes and resolutions.
+
+Testing and deployment:
+  The developer portfolio should be tested on a range of different
+  browsers and devices to ensure compatibility and functionality.
+  The portfolio should be deployed to a staging environment for
+  final testing and bug fixes before being launched to the
+  production environment.
+  The portfolio should be monitored for any issues or bugs
+  after launch, and a support and maintenance plan should be
+  in place to address any issues that arise.
+
+  DATEs:
+  -ALPHA release date 12/22/2022  -->  [basic features, no frameworks]
+  -BETA release date not set.  -->  [More complex feature, Angular]   
+  -RELEASE dosen't have a date of conclusion, because 
+    The release has no end date, because the entire project is
+    a work in progress according to the "AGILE METHOD"
+
+****************************************  
+****************************************
+
+    "This document is just a prototype without any legal value"
+    All rights, reserved, Copyright © 2022 Dellapasqua Lorenzo
+
+
+The followind txt is a description of a Doc.SpecificationFunctionality,
+made by ChatGPT.
+
+Introduction: This section provides an overview 
+  of the purpose and scope of the developer portfolio.
+  It may include a brief description of the intended audience
+  and the main features and functionality of the portfolio.
+
+User needs: This section outlines the specific needs and
+  requirements of the user. This could include information
+  on the types of projects and technologies the user works with,
+  as well as any specific features they are looking for in a portfolio.
+
+System requirements: This section outlines the technical
+  requirements for the developer portfolio.
+  This could include information on the platforms and
+  devices the portfolio should be compatible with,
+  as well as any specific software or hardware requirements.
+
+Functionality: This section details the specific functionality
+  of the developer portfolio. This could include information on
+  how users can add and edit projects, how they can showcase
+  their skills and experience, and any other features
+  that will be included in the portfolio.
+
+User interface: This section describes the overall design and layout
+  of the developer portfolio. It may include information on
+  the color scheme, font choices, and any other visual design elements.
+
+Testing and deployment: This section outlines the plan for
+  testing and launching the developer portfolio.
+  This could include information on testing strategies,
+  deployment schedules, and any necessary support or maintenance plans.
