@@ -5,7 +5,7 @@
   'ACTORS
   :user guest: as user #yellow
 
-  'USE-CASES USECASE (DD)AS(DD)
+  'USE-CASES USECASE
   package PortfolioALPHAversion #lightblue{
     usecase (Download CV) as dwcv #lightgreen
     usecase (Contact) as contact #lightgreen
