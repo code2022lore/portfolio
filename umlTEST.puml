@@ -50,10 +50,10 @@ Alternate flow:
 
 'TEST PLANTUML diagram live generation --> it works
 
-'@startuml
+@startuml test
   Alice -> Bob: Authentication Request
   Bob --> Alice: Authentication Response
 
   Alice -> Bob: Another authentication Request
   Alice <-- Bob: Another authentication Response
-'@enduml
+@enduml
